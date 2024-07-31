@@ -1,0 +1,16 @@
+
+/* Contenedor Flex */
+.container {
+    display: flex;
+    justify-content: space-between; /* Distribuir espacio entre elementos */
+    align-items: center; /* Alinear elementos al centro verticalmente */
+}
+
+/* Elementos hijos */
+.item {
+    background-color: #1e90ff; /* Azul cielo */
+    color: #fff;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
